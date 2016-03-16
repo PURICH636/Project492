@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/splashAnimation"
+    android:oneshot="true" android:layout_height="match_parent" android:layout_width="match_parent">
+    <item android:drawable="@drawable/seq01_480x720_0000" android:duration="30" />
+    <item android:drawable="@drawable/seq01_480x720_0001" android:duration="30" />
+    <item android:drawable="@drawable/seq01_480x720_0002" android:duration="30" />
+    <item android:drawable="@drawable/seq01_480x720_0003" android:duration="30" />
+
+    <item android:drawable="@drawable/seq01_480x720_0017" android:duration="30" />
+    <item android:drawable="@drawable/seq01_480x720_0018" android:duration="30" />
+    <item android:drawable="@drawable/seq01_480x720_0019" android:duration="30" />
+
+    <item android:drawable="@drawable/seq01_480x720_0025" android:duration="30" />
+    <item android:drawable="@drawable/seq01_480x720_0026" android:duration="30" />
+    <item android:drawable="@drawable/seq01_480x720_0027" android:duration="30" />
+
+    <item android:drawable="@drawable/seq01_480x720_0040" android:duration="30" />
+    <item android:drawable="@drawable/seq01_480x720_0041" android:duration="30" />
+    <item android:drawable="@drawable/seq01_480x720_0042" android:duration="30" />
+    <item android:drawable="@drawable/seq01_480x720_0043" android:duration="30" />
+    <item android:drawable="@drawable/seq01_480x720_0044" android:duration="30" />
+    <item android:drawable="@drawable/seq01_480x720_0045" android:duration="30" />
+    <item android:drawable="@drawable/seq01_480x720_0046" android:duration="30" />
+
+    <item android:drawable="@drawable/seq01_480x720_0056" android:duration="30" />
+    <item android:drawable="@drawable/seq01_480x720_0057" android:duration="30" />
+    <item android:drawable="@drawable/seq01_480x720_0058" android:duration="30" />
+    <item android:drawable="@drawable/seq01_480x720_0059" android:duration="30" />
+
+    <item android:drawable="@drawable/seq01_480x720_0073" android:duration="30" />
+    <item android:drawable="@drawable/seq01_480x720_0074" android:duration="30" />
+    <item android:drawable="@drawable/seq01_480x720_0075" android:duration="30" />
+    <item android:drawable="@drawable/seq01_480x720_0076" android:duration="30" />
+    <item android:drawable="@drawable/seq01_480x720_0077" android:duration="30" />
+    <item android:drawable="@drawable/seq01_480x720_0078" android:duration="30" />
+
+    <item android:drawable="@drawable/seq01_480x720_0097" android:duration="30" />
+    <item android:drawable="@drawable/seq01_480x720_0098" android:duration="30" />
+    <item android:drawable="@drawable/seq01_480x720_0099" android:duration="500" />
+</animation-list>
